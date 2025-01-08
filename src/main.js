@@ -5,7 +5,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <h1>Hola Mundo desde Vite</h1>
+    <h1>Hola Vale es una prueba para comprobar si podes ver lo que esta aqui</h1>
   </div>
 `
 
